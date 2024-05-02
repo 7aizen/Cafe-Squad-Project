@@ -11,7 +11,7 @@ Unlike the current isolated manual analyses, our product will allow for a quick 
 
 ## Team members: 
 
-Raphael, Isaak, Elias, Rathish, and Rafal
+Raphael, Isaac, Elias, Rathish, and Rafal
 
 ## Links to docs/resources:
 
