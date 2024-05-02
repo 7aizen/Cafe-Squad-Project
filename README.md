@@ -16,6 +16,7 @@ Raphael, Isaac, Elias, Rathish, and Rafal
 ## Links to docs/resources:
 
 [Trelo Board for our project](https://trello.com/b/jeORUvmE/cafesquad)
+[Visualised data](https://imgur.com/a/YQX5H1z)
 
 ## How to run files:
 
